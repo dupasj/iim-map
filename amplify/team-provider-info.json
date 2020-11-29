@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-vueiim-dev-171824-authRole",
+            "UnauthRoleArn": "arn:aws:iam::122300919226:role/amplify-vueiim-dev-171824-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::122300919226:role/amplify-vueiim-dev-171824-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-vueiim-dev-171824-deployment",
+            "UnauthRoleName": "amplify-vueiim-dev-171824-unauthRole",
+            "StackName": "amplify-vueiim-dev-171824",
+            "StackId": "arn:aws:cloudformation:eu-west-1:122300919226:stack/amplify-vueiim-dev-171824/92842320-325e-11eb-b265-02d83da22de8",
+            "AmplifyAppId": "d2q72hwmozhyec"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2q72hwmozhyec",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
